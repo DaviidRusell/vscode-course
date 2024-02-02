@@ -13,12 +13,12 @@
 //*
 
 let NoMeBorres = ':)';
-let Borrame = ':(';
+let yateborre = ':(';
 
 NoMeBorres = '1';
-Borrame    = 'a';
+yateborre    = 'a';
 NoMeBorres = '1';
-Borrame    = 'a';
+yateborre    = 'a';
 
 
 // Resultado final (sin los comentarios claro.)
